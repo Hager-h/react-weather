@@ -1,0 +1,14 @@
+.ford{
+  color:green
+}
+.all div{
+  color: white;
+  margin-bottom: 5px;
+  border-bottom: 1px solid red;
+  padding: 2px 5px;
+  display: flex;
+  margin-top: 10px;    justify-content: space-between;
+  align-items: center;
+}
+
+
